@@ -4,7 +4,7 @@ import ClassComponents from "./Concepts/ClassComponents"
 const App = () => {
   return (
     <>
-      <ClassComponents>
+      <ClassComponents surname="Bilal">
         <Button type="button" variant="contained" color="warning">Click Me</Button>
       </ClassComponents>
     </>
